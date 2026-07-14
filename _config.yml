@@ -4,8 +4,17 @@ title: linuxand's homepage
 description: 나의 학습 공유 공간
 language: ko
 
-
 # layout폴더에서 head.html 파일 불러오기
-layout: layout/head.html
-title: 나의 학습 공유 공간
-permalink: myLearningSharedSpace
+
+# 카테고리 연습중
+categories:
+  - code: "CLOTHING"
+    name: "의류"
+    sub_categories:
+      - code: "TOP"
+        name: "상의"
+      - code: "BOTTOM"
+        name: "하의"
+
+  - code: "SHOES"
+    name: "신발"
