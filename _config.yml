@@ -1,9 +1,0 @@
-# 사이트 설정
-theme: jekyll-theme-minimal
-title: linuxand's homepage
-description: 나의 학습 공유 공간
-language: ko
-
-# layout폴더에서 head.html 파일 불러오기
-
-# 카테고리 연습중
