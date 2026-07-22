@@ -1,8 +1,11 @@
-ul > li{
-  color: white;
+/* ul > li{
+  color: #e8eaed;
 }
+h1{
+  color: #e8eaed;
+} */
 
 body{
-  background-color: black;
-  
+  background-color: #202124;
+  color: #e8eaed;
 }
