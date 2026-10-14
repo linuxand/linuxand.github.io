@@ -1,10 +1,5 @@
 ---
-title: "개발 블로그"
+title: "리뷰"
 theme: jekyll-theme-cayman
 
 ---
-
-[자바 컴파일러와 
-자바 가상 머신과 
-자바 개발 키트와 
-자바 실행 환경의 역할 및 계층적 관계](./index.md)
